@@ -1,7 +1,7 @@
 ![MaterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Md. Saimon Sikder Srayo</h1>
 <h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3>
-<img align="center" alt="coding" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="coding" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=srayo16&label=Profile%20views&color=0e75b6&style=flat" alt="srayo16" /> </p>
 
