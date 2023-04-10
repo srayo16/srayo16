@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **srayosikder@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1AAdHocjDxa9J1dqaaok8di0KrCBfWqN4](https://drive.google.com/drive/u/1/folders/1AAdHocjDxa9J1dqaaok8di0KrCBfWqN4)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1deZmMtuYJz2kLf1ylQgkj-hAQ9yMRjva/view?usp=share_link)
 
 - ⚡ Fun fact **I am funny**
 
